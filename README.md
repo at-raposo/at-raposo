@@ -5,10 +5,11 @@
   <img src="https://img.shields.io/github/stars/italo-mauricio?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=at-raposo&progress=true_&show_icons=true&theme=tokyonight)](https://github.com/at-raposo/github-readme-stats)
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=at-raposo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=at-raposo" height="150" alt="languages graph"  />
+</div>
 
 
 
