@@ -47,10 +47,3 @@
   
 
   
-
-
-
-
-## :snake: Activities :
-
-![Snake animation](https://github.com/at-raposo)
