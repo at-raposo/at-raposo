@@ -6,7 +6,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=at-raposo&hide_progress=true_&show_icons=true&theme=tokyonight)](https://github.com/at-raposo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=at-raposo&progress=true_&show_icons=true&theme=tokyonight)](https://github.com/at-raposo/github-readme-stats)
 
 
 
