@@ -22,7 +22,7 @@
 
 ## 🌐 Socials:
 <a href=" https://linkedin.com/in/https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHpQ_q_oCUB6QAAAYbb007ALq9h6gE4eJHVd7IznvMICoPtnuUDPcjJLMbH_jK_YAS1_LX5wQVSZcwBEslUZW9nzw2CVVUDQqifE5D0nCNy3RJooH9WwWMx5aBPX2yNs-siJms=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthain%25C3%25A1-raposo-116266218%2F" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href= "https://twitter.com/www.twitter.com/raposo_tech" target="blank"><img src="https://img.shields.io/twitter/url?color=white&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRaposo_tech"></a>
+<a href= "https://twitter.com/www.twitter.com/raposo_tech" target="blank"><img src="https://img.shields.io/twitter/url?color=&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRaposo_tech"></a>
 <a href = "mailto:contate.raposo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 # 💻 Tech Stack:
