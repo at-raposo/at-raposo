@@ -11,7 +11,7 @@
   
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Hello,+my+name+is+Andy+Raposo,+call+me+Raposo.+I'm+a+student+of+Automatation+in+Technical+State+Scholl+of+São+Paulo,+currently+focused+on+developing+my+skills+in+programming.+I`m+currently+studying+C,+CPlusPlus,+Arduino,+Java+and+Python." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=40000&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Hello,+my+name+is+Andy+Raposo,+call+me+Raposo.+I'm+a+student+of+Automatation+in+Technical+State+Scholl+of+São+Paulo,+currently+focused+on+developing+my+skills+in+programming.+I`m+currently+studying+C,+CPlusPlus,+Arduino,+Java+and+Python." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 
