@@ -8,12 +8,16 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=at-raposo" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=at-raposo" height="150" alt="languages graph"  />
 
+###
   
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Hey+I am+Raposo,+Welcome+to+my+profile." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
+
 ###
+
+</div>
 
 <h2 align="center">About Me</h2>
 
