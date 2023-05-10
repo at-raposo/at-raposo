@@ -11,8 +11,15 @@
   
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=40000&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Hello,+my+name+is+Andy+Raposo,+call+me+Raposo.+I'm+a+student+of+Automatation+in+Technical+State+Scholl+of+São+Paulo,+currently+focused+on+developing+my+skills+in+programming.+I`m+currently+studying+C,+CPlusPlus,+Arduino,+Java+and+Python." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=40000&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
+###
+
+<h2 align="center">About Me</h2>
+
+My name is Andy Raposo and I am currently a technical automation student at the São Paulo Technical School. I am passionate about programming and I am focused on mastering C++/C, Arduino, and Python languages.
+
+As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming led me to focus on learning these three programming languages.
 
 
 
@@ -63,8 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/at-raposo/at-raposo/output/snake.svg" alt="Snake animation" />
 
-###
 
 
