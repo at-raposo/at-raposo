@@ -24,9 +24,9 @@
 
 <h2 align="center">About Me</h2>
 
-My name is Andy Raposo and I am currently a technical automation student at the São Paulo Technical School. I am passionate about programming and I am focused on mastering C++/C, Arduino, and Python languages.
+My name is Andy Raposo and I am currently a Technical Automation student at the ETEC(São Paulo Technical School). I am passionate about programming and I am focused on mastering in embedded systems.
 
-As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming led me to focus on learning these three programming languages.
+As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming to make the embedded systems run correctly.
 
 ###
 
