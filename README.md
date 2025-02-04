@@ -29,10 +29,23 @@ My name is Andy Raposo and I am currently a Mathematics and Computer Science Und
 As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming to make the embedded systems run correctly.
 
 ###
-</div>
-<h2 align="center">Roadmap</h2>
-
-(https://roadmap.sh/card/ai-data-scientist?s=6542aa704352f418f80706b6)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Jornada de Aprendizado - AI Data Scientist</title>
+</head>
+<body>
+    <h1>Minha Jornada de Aprendizado - AI Data Scientist</h1>
+    <p>Abaixo está o meu roadmap para me tornar um AI Data Scientist:</p>
+    
+    <!-- Exibindo o Card do Roadmap -->
+    <img src="https://roadmap.sh/card/ai-data-scientist?s=6542aa704352f418f80706b6" alt="Roadmap AI Data Scientist">
+    
+    <p>Confira o meu progresso através desse card, atualizado com o que aprendi e estou aprendendo!</p>
+</body>
+</html>
 
 ###
 
