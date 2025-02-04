@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://wakatime.com/@9159ac33-f353-4b22-8af5-8597741887aa"><img src="https://wakatime.com/badge/user/9159ac33-f353-4b22-8af5-8597741887aa.svg" alt="Total time coded since Feb 23 2023" /></a> •  
   <img src="https://img.shields.io/github/stars/italo-mauricio?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
@@ -12,7 +11,7 @@
 </div>
 
 ###
-  
+
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+, I`m+Raposo,+Welcome+to+my+profile." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
@@ -24,28 +23,16 @@
 
 <h2 align="center">About Me</h2>
 
-My name is Andy Raposo and I am currently a Mathematics and Computer Science Undegrad and I´m Technical Automation at the ETEC(São Paulo Technical School). I am passionate about programming and I am focused on mastering in embedded systems.
+My name is Andy Raposo and I am currently a Mathematics and Computer Science Undegrad and I´m Technical Automation at the ETEC(São Paulo Technical School). I am passionate about programming and I am focused on mastering embedded systems.
 
 As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming to make the embedded systems run correctly.
 
-###
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Jornada de Aprendizado - AI Data Scientist</title>
-</head>
-<body>
-    <h1>Minha Jornada de Aprendizado - AI Data Scientist</h1>
-    <p>Abaixo está o meu roadmap para me tornar um AI Data Scientist:</p>
-    
-    <!-- Exibindo o Card do Roadmap -->
-    <img src="https://roadmap.sh/card/ai-data-scientist?s=6542aa704352f418f80706b6" alt="Roadmap AI Data Scientist">
-    
-    <p>Confira o meu progresso através desse card, atualizado com o que aprendi e estou aprendendo!</p>
-</body>
-</html>
+<!-- Card do Roadmap Adicionado Aqui -->
+<h2 align="center">My AI Data Scientist Roadmap</h2>
+<p align="center">Confira meu progresso no roadmap de AI Data Scientist:</p>
+<p align="center">
+  <img src="https://roadmap.sh/card/ai-data-scientist?s=6542aa704352f418f80706b6" alt="Roadmap AI Data Scientist" />
+</p>
 
 ###
 
@@ -89,6 +76,7 @@ As a technical automation student, I have been exposed to various areas of autom
 </div>
 
 ###
+
 
 
 
