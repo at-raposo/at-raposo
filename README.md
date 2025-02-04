@@ -29,6 +29,8 @@ My name is Andy Raposo and I am currently a Mathematics and Computer Science Und
 As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming to make the embedded systems run correctly.
 
 ###
+![Roadmap](https://roadmap.sh/card/ai-data-scientist?s=6542aa704352f418f80706b6)
+###
 
 <h2 align="center">Tech Stacks</h2>
 
