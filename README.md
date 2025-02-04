@@ -11,7 +11,7 @@
 </div>
 
 ###
-
+  
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+, I`m+Raposo,+Welcome+to+my+profile." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out">
@@ -23,16 +23,12 @@
 
 <h2 align="center">About Me</h2>
 
-My name is Andy Raposo and I am currently a Mathematics and Computer Science Undegrad and I´m Technical Automation at the ETEC(São Paulo Technical School). I am passionate about programming and I am focused on mastering embedded systems.
+My name is Andy Raposo and I am currently a Mathematics and Computer Science Undegrad and I´m Technical Automation at the ETEC(São Paulo Technical School). I am passionate about programming and I am focused on mastering in embedded systems.
 
 As a technical automation student, I have been exposed to various areas of automation such as control systems, instrumentation, and process automation. However, my interest in programming to make the embedded systems run correctly.
 
-<!-- Card do Roadmap Adicionado Aqui -->
-<h2 align="center">My AI Data Scientist Roadmap</h2>
-<p align="center">Confira meu progresso no roadmap de AI Data Scientist:</p>
-<p align="center">
-  <img src="https://roadmap.sh/card/ai-data-scientist?s=6542aa704352f418f80706b6" alt="Roadmap AI Data Scientist" />
-</p>
+###
+
 
 ###
 
@@ -76,8 +72,4 @@ As a technical automation student, I have been exposed to various areas of autom
 </div>
 
 ###
-
-
-
-
 
