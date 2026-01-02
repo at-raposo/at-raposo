@@ -1,34 +1,39 @@
 <p align="center">
   <a href="https://wakatime.com/@9159ac33-f353-4b22-8af5-8597741887aa">
-    <img src="https://wakatime.com/badge/user/9159ac33-f353-4b22-8af5-8597741887aa.svg" alt="Total time coded since Feb 23 2023" />
+    <img
+      src="https://wakatime.com/badge/user/9159ac33-f353-4b22-8af5-8597741887aa.svg"
+      alt="Total time coded since Feb 23 2023"
+    />
   </a>
   •
-  <img src="https://img.shields.io/github/stars/at-raposo?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜" />
+  <img
+    src="https://img.shields.io/github/stars/at-raposo?label=Stars"
+    alt="Total Stars"
+  />
 </p>
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+  <img
     height="150"
-    alt="GitHub stats 1"
+    alt="GitHub Stats — TokyoNight"
+    src="https://github-readme-stats.vercel.app/api?username=at-raposo&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&theme=radical&hide_border=true"
     height="150"
-    alt="GitHub stats 2"
+    alt="GitHub Stats — Radical"
+    src="https://github-readme-stats.vercel.app/api?username=at-raposo&amp;show_icons=true&amp;theme=radical&amp;hide_border=true"
+  />
+
+  <img
+    height="150"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=at-raposo&amp;locale=en&amp;mode=weekly&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=5&amp;date_format=M%20j%5B%2C%20Y%5D&amp;order=3"
   />
 
 </div>
-cal)
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=at-raposo&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&order=3" height="150" alt="streak graph" />
-  </div>
-
-  ###
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+%2C+I%60m+Raposo%2C+Welcome+to+my+profile." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out" />
 <img src="assets/borderseparator.gif" />
