@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Adrian and I'm a Data Analyst & Math Student @ USP, from Brazil 🇧🇷.</h2>
 
 ###
 
