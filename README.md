@@ -6,6 +6,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+%2C+I%60m+Raposo%2C+Welcome+to+my+profile." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out" />
 <img src="assets/borderseparator.gif" />
 
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=at-raposo" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Pranesh-2005&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ###
 
 <h4 align="left">Hi 👋! My name is Adrian and I'm a Data Analyst and Mathematics student at USP. My background in Mathematics helps me build a solid foundation in logic, statistics, and problem-solving, which I apply daily in Data Science and Quantitative Finance through programming and analytical modeling. From 🇧🇷.
