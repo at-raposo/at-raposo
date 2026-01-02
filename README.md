@@ -3,8 +3,8 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Adrian and I'm a Data Analyst & Math Undergrad @ USP, from Brazil 🇧🇷.</h2>
-
+<h2 align="left">Hi 👋! My name is Adrian and I'm a Data Analyst and Mathematics student at USP. My background in Mathematics helps me build a solid foundation in logic, statistics, and problem-solving, which I apply daily in Data Science and Quantitative Finance through programming and analytical modeling. From 🇧🇷.
+  
 ###
 
 <div align="center">
