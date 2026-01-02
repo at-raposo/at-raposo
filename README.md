@@ -26,10 +26,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Desenvolvendo automações e painéis de dados para a Célula de Qualidade.
+- 🎓 Focando os estudos em cursando Matemática (IME-USP).
+- 💼 Trabalhando com Data Analytics (R, SQL, VBA, Tableau).
+- 🌱 Aprendendo mais sobre Integração com LLMs (Gemini API, TensorFlow), Desenvolvimento Web (HTML/JS) e Data(Python, Regressão, SQL, R).
 
 ## Minhas Skills
 
@@ -56,10 +56,6 @@
 
 
 <br/>
-
-<a href="https://github.com/at-raposo" title="Perfil do Adrian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?at-raposo=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
