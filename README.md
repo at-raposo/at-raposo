@@ -7,8 +7,21 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=at-raposo" height="150" alt="stats graph" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&theme=radical)
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub stats 1"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=at-raposo&show_icons=true&theme=radical&hide_border=true"
+    height="150"
+    alt="GitHub stats 2"
+  />
+
+</div>
+cal)
 
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=at-raposo&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&order=3" height="150" alt="streak graph" />
