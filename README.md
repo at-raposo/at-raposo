@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=at-raposo.at-raposo&"  />
+</div>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+%2C+I%60m+Raposo%2C+Welcome+to+my+profile." align="middle" alt="Hey, I'm Raposo. Welcome to my Profile! animated typed out" />
 <img src="assets/borderseparator.gif" />
 
@@ -52,11 +57,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/at-raposo/at-raposo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/at-raposo/at-raposo/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=at-raposo.at-raposo&"  />
-</div>
-
 ###
