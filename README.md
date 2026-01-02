@@ -45,7 +45,7 @@
 <div align="left">
 
 
-  <a href="https://discord.gg/seu-servidor" target="_blank">
+  <a href="https://discord.com/channels/506298468567089154" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 
