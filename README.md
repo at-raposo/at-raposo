@@ -44,23 +44,20 @@
 <h3>YOU CAN FIND ME:</h3>
 <div align="left">
 
-  <a href="https://youtube.com/seu-canal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
 
   <a href="https://discord.gg/seu-servidor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:andyraposo@ups.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/andy-raposo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 
-  <a href="https://twitter.com/seuusuario" target="_blank">
+  <a href="https://x.com/Santis_Raposo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
 
