@@ -21,12 +21,6 @@
   
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=transparent" alt="Pranesh GitHub Stats" />
-</div>
-
-###
-
 <h3>SKILLS</h3>
 
 <div align="left">
